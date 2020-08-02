@@ -39,9 +39,6 @@ If you want to run the code locally, please download the repo and build your Ana
 - `env_ideal_profiles.yaml`: the Anaconda environment file for setting up the project environment
 
 
-## Contribute
-Any contribution is welcome!
-
 
 ## To-do's
 - Allow to query Indeed USA instead of the Canadian site and increase the number of postings to scrape
@@ -55,3 +52,9 @@ Any contribution is welcome!
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Refrence
+Towards data science blog end to end project
+
+
+
